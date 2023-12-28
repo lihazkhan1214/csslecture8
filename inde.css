@@ -1,0 +1,65 @@
+/* .overflow{
+    width: 200px;
+    height: 200px;
+    background-color: blue; */
+    /* overflow-y:hidden;
+    overflow-x: scroll; */
+    
+    /* } */
+
+
+    /* h1::before{
+        content: "welcome  ";
+    } */
+
+    /* h1::after{
+        content: "  after welcome ";
+    } */
+
+    /* h1::first-letter{
+        color: red;
+    } */
+
+    /* p::first-line{
+        color: red;
+    }
+
+  h1::selection{
+    background-color: yellow;
+    color: aqua;
+  }
+
+  #name::placeholder{
+    color: blueviolet;
+  } */
+
+
+
+
+  /*  pesuad classes*/
+
+/* div :nth-child(2){
+    background-color: red;
+  } */
+
+
+  /* div :last-of-type{
+    color: blue;
+  } */
+
+  .flexcontainer{
+    background-color: aquamarine;
+    width: 700px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+
+  }
+
+  .flexdiv{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+  
+  }
